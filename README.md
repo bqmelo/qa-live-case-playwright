@@ -83,11 +83,11 @@ npm run report
 - URL: https://www.saucedemo.com/
 - Password for all users: `secret_sauce`
 - Users available:
-  - `standard_user` — happy path
-  - `locked_out_user` — blocked account
-  - `problem_user` — broken UI elements
-  - `performance_glitch_user` — slow responses
-  - `error_user`, `visual_user` — other edge cases
+  - `standard_user`
+  - `locked_out_user` 
+  - `problem_user`
+  - `performance_glitch_user` 
+  - `error_user`, `visual_user`
 
 ## Useful docs
 
